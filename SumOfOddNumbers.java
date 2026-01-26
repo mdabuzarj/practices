@@ -1,6 +1,6 @@
 public class SumOfOddNumbers {
 
-    // function to calculate sum of odd numbers
+    // function to calculate sum of odd numbers just alter
     static int oddSum(int n) {
         int sum = 0;
 
